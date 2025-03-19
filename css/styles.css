@@ -1,0 +1,90 @@
+
+
+   nav { 
+        text-align: center;
+       border-style: solid;
+       border-color: rgb(182, 113, 57);
+       background-color: rgb(182, 113, 57);
+   }
+   
+   
+   h1 {
+        text-align: center;
+        color: rgb(0, 0, 0);
+        font-style: Verdana;
+        font-size:xx-large;
+       
+    }
+    
+
+    a{
+        color: white;
+        text-decoration: none;
+
+    }
+    
+    body {
+        
+            background-color: #9DC64D;
+            
+    }
+
+   header {
+        background-color: white;
+             border-radius: 15px;
+ 
+
+    }
+
+    h2{
+        margin-top: 0;
+        text-align: center;
+        font-style: Arial;
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+ 
+
+    }
+
+    .titulo{
+        background-color: white;
+    }
+
+
+        .Resumo{
+            
+            text-align: center;
+            font-style:initial;
+            font-size:150%;
+                 background-color: rgb(255, 255, 255);
+                 border-radius: 15px;
+            margin-left: 500px;
+            margin-right: 500px;
+        padding: 20px
+        
+
+
+        }
+
+        .artigo{
+            background-color: white;
+
+        }
+        
+
+    .MesaBrasil{
+        text-align: center;
+    }
+
+    footer{
+        
+        text-align: center;
+        
+    }
+
+    p{
+        border-radius: 10px;
+             margin-left: 700px;
+             margin-right: 700px;
+        padding: 20px
+    }
